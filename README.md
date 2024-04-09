@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=munees07&label=Profile%20views&color=0e75b6&style=flat" alt="munees07" /> </p>
 
-<p align="left"> <a href="www.linkedin.com/in/mohamed-munees07" target="blank"><img src="https://img.shields.io/twitter/follow/Mohamed Munees?logo=linkedin&style=for-the-badge" alt="Mohamed Munees" /></a> </p>
+<p align="left"> <a href="www.linkedin.com/in/mohamed-munees07" target="_blank" ><img src="https://img.shields.io/twitter/follow/Mohamed Munees?logo=linkedin&style=for-the-badge" alt="Mohamed Munees" /></a> </p>
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/munees07]
