@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/munees07]
 
-- 💬 Ask me about  Flutter , Dart , Hive , REST , Http , Dio  ,Tech , Computer Languages
+- 💬 Ask me about  Flutter , Dart , Hive , REST , Http , Dio  ,HTML,Javascript,bootstrap,Tech , Computer Languages
 
 - 📫 How to reach me  [muneezshanu5661@gmail.com]
 
